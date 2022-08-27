@@ -1,7 +1,7 @@
-package com.nbysigh.msscbeerservice.web.mappers;
+package com.nbysingh.msscbeerservice.web.mappers;
 
-import com.nbysigh.msscbeerservice.domain.Beer;
-import com.nbysigh.msscbeerservice.web.model.BeerDto;
+import com.nbysingh.msscbeerservice.domain.Beer;
+import com.nbysingh.msscbeerservice.web.model.BeerDto;
 import org.mapstruct.Mapper;
 
 @Mapper(uses = {DateMapper.class})

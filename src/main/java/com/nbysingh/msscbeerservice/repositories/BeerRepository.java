@@ -1,6 +1,6 @@
-package com.nbysigh.msscbeerservice.repositories;
+package com.nbysingh.msscbeerservice.repositories;
 
-import com.nbysigh.msscbeerservice.domain.Beer;
+import com.nbysingh.msscbeerservice.domain.Beer;
 import org.springframework.data.repository.PagingAndSortingRepository;
 
 import java.util.UUID;

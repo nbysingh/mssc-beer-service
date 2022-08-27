@@ -1,4 +1,4 @@
-package com.nbysigh.msscbeerservice.web.mappers;
+package com.nbysingh.msscbeerservice.web.mappers;
 
 import org.springframework.stereotype.Component;
 

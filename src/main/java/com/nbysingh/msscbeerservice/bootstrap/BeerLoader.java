@@ -1,7 +1,7 @@
-package com.nbysigh.msscbeerservice.bootstrap;
+package com.nbysingh.msscbeerservice.bootstrap;
 
-import com.nbysigh.msscbeerservice.domain.Beer;
-import com.nbysigh.msscbeerservice.repositories.BeerRepository;
+import com.nbysingh.msscbeerservice.domain.Beer;
+import com.nbysingh.msscbeerservice.repositories.BeerRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

@@ -1,8 +1,8 @@
-package com.nbysigh.msscbeerservice.web.controller;
+package com.nbysingh.msscbeerservice.web.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.nbysigh.msscbeerservice.web.model.BeerDto;
-import com.nbysigh.msscbeerservice.web.model.BeerStyleEnum;
+import com.nbysingh.msscbeerservice.web.model.BeerDto;
+import com.nbysingh.msscbeerservice.web.model.BeerStyleEnum;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

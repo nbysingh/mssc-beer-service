@@ -1,4 +1,4 @@
-package com.nbysigh.msscbeerservice;
+package com.nbysingh.msscbeerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

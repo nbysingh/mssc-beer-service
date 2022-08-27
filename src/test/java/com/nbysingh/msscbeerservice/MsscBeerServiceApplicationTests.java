@@ -1,4 +1,4 @@
-package com.nbysigh.msscbeerservice;
+package com.nbysingh.msscbeerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

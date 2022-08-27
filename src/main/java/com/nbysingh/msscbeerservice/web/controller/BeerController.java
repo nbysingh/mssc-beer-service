@@ -1,6 +1,6 @@
-package com.nbysigh.msscbeerservice.web.controller;
+package com.nbysingh.msscbeerservice.web.controller;
 
-import com.nbysigh.msscbeerservice.web.model.BeerDto;
+import com.nbysingh.msscbeerservice.web.model.BeerDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
